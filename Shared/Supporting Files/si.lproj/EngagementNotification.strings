@@ -1,0 +1,9 @@
+/* Title of notification send to user after inactivity to encourage them to use the search feature. */
+"Engagement.Notification.Title.v112" = "ප්‍රථම සෙවීම අරඹන්න";
+
+/* Title of notification send to user after inactivity to encourage them to use the private browsing feature. */
+"Engagement.Notification.Treatment.A.Title.v114" = "හෝඩුවාවකින් තොරව පිරික්සන්න";
+
+/* Title of notification send to user after inactivity to encourage them to use the private browsing feature. */
+"Engagement.Notification.Treatment.B.Title.v114" = "පෞද්. පිරික්සුම බලන්න";
+
