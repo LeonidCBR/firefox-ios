@@ -4,3 +4,9 @@
 /* Title of notification send to user after inactivity to encourage them to use the search feature. */
 "Engagement.Notification.Title.v112" = "Začnite prvé vyhľadávanie";
 
+/* Title of notification send to user after inactivity to encourage them to use the private browsing feature. */
+"Engagement.Notification.Treatment.A.Title.v114" = "Prehliadajte bez stopy";
+
+/* Title of notification send to user after inactivity to encourage them to use the private browsing feature. */
+"Engagement.Notification.Treatment.B.Title.v114" = "Vyskúšajte súkromné prehliadanie";
+
