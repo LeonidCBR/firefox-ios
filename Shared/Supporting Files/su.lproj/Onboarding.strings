@@ -1,0 +1,33 @@
+/* The title of the button on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. */
+"DefaultBrowserPopup.ButtonTitle.v114" = "Buka Setélan";
+
+/* The title on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. */
+"DefaultBrowserPopup.Title.v114" = "Ganti Panyungsi Baku Anjeun";
+
+/* String used to describes what Firefox is on the first onboarding page in our Onboarding screens. Indie means small independant. */
+"Onboarding.IntroDescriptionPart1.v114" = "Indi. Nirlaba. Salilana.";
+
+/* String used to describe the option to continue to ask for the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.Continue.Action.v114" = "Tuluykeun";
+
+/* String used to describes the option to skip the Sync sign in during onboarding for 106 version in Firefox Onboarding screens. */
+"Onboarding.Sync.Skip.Action.v114" = "Liwat";
+
+/* String used to describes the title of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. */
+"Onboarding.Sync.Title.v114" = "Luncat tina telepon ka laptop jeung sabalikna";
+
+/* Accessibility label for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that which type of wallpaper they are seeing. */
+"Onboarding.Wallpaper.Accessibility.Classic.v114" = "Latar Klasik";
+
+/* Accessibility label for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that which type of wallpaper they are seeing. */
+"Onboarding.Wallpaper.Accessibility.LimitedEdition.v114" = "Latar Édisi Diwates";
+
+/* Description for the wallpaper onboarding page in our Onboarding screens. This describes to the user that they can set a wallpaper. */
+"Onboarding.Wallpaper.Action.v114" = "Atur Latar";
+
+/* Description for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that they can choose different wallpapers. */
+"Onboarding.Wallpaper.Description.v114" = "Pilih latar anu nyarita ka anjeun.";
+
+/* Title for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that they can choose different wallpapers. */
+"Onboarding.Wallpaper.SelectorTitle.v114" = "Cobaan képrétkeun kelir";
+
