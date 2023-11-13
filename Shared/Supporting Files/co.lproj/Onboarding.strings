@@ -1,0 +1,51 @@
+/* The title of the button on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. */
+"DefaultBrowserPopup.ButtonTitle.v114" = "Andà à e preferenze";
+
+/* The title on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. */
+"DefaultBrowserPopup.Title.v114" = "Cambià di navigatore predefinitu";
+
+/* String used to describes what Firefox is on the first onboarding page in our Onboarding screens. Indie means small independant. */
+"Onboarding.IntroDescriptionPart1.v114" = "Indipendente. Senza scopu lucrativu. Per u bè cumunu.";
+
+/* String used to describes what Firefox is on the first onboarding page in our Onboarding screens. */
+"Onboarding.IntroDescriptionPart2.v114" = "Impegnatu per a prumessa d’un Internet megliu per tutti.";
+
+/* String used to describe the option to continue to ask for the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.Continue.Action.v114" = "Cuntinuà";
+
+/* String used to describe the description of the notification onboarding page in our Onboarding screens. Placeholder is for the app name. */
+"Onboarding.Notification.Description.v114" = "Mandate l’unghjette trà i vostri apparechji è ricivete cunsiglii per sapè cumu ottene u più bonu di %@.";
+
+/* String used to describe the title of the notification onboarding page in our Onboarding screens. Placeholder is for the app name. */
+"Onboarding.Notification.Title.v114" = "E nutificazioni vi aiutanu à fane di più cù %@";
+
+/* String used to describes the description of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. */
+"Onboarding.Sync.Description.v114" = "Ricuperate l’unghjette è e parolle d’intesa da i vostri altri apparechji per rivene induve vo l’avete lasciatu.";
+
+/* String used to describes the option to skip the Sync sign in during onboarding for 106 version in Firefox Onboarding screens. */
+"Onboarding.Sync.Skip.Action.v114" = "Ignurà";
+
+/* String used to describes the title of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. */
+"Onboarding.Sync.Title.v114" = "Passate da u telefonu à l’urdinatore purtavule è vice versa";
+
+/* Accessibility label for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that which type of wallpaper they are seeing. */
+"Onboarding.Wallpaper.Accessibility.Classic.v114" = "Sfondulu di screnu classicu";
+
+/* Accessibility label for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that which type of wallpaper they are seeing. */
+"Onboarding.Wallpaper.Accessibility.LimitedEdition.v114" = "Sfondulu di screnu in edizione limitata";
+
+/* Description for the wallpaper onboarding page in our Onboarding screens. This describes to the user that they can set a wallpaper. */
+"Onboarding.Wallpaper.Action.v114" = "Definisce un sfondulu di screnu";
+
+/* Description for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that they can choose different wallpapers. */
+"Onboarding.Wallpaper.Description.v114" = "Sciglite un sfondulu di screnu chì vi piace.";
+
+/* Title for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that they can choose different wallpapers. */
+"Onboarding.Wallpaper.SelectorTitle.v114" = "Pruvate un tastu di culore";
+
+/* Title for the wallpaper onboarding page in our Onboarding screens. This describes to the user that they can choose different wallpapers. Placeholder is for app name. */
+"Onboarding.Wallpaper.Title.v114" = "Sceglie un sfondulu di screnu per %@";
+
+/* String used to describe the title of link button is on the welcome onboarding page for current version in our Onboarding screens. */
+"Onboarding.Welcome.Link.Action.v114" = "Sapene di più in a nostra dichjarazione di cunfidenzialità";
+
